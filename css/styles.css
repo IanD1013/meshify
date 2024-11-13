@@ -7,7 +7,7 @@
   --color-body: #918ca4;
 }
 
-/* Typography */
+/***** Typography *****/
 html {
   font-size: 62.5%;
 }
@@ -60,7 +60,7 @@ p {
   }
 }
 
-/* Links */
+/***** Links *****/
 a {
   text-decoration: none;
 }
@@ -88,7 +88,7 @@ a {
   }
 }
 
-/* Badges */
+/***** Badges *****/
 /* badge structure */
 .badge {
   border-radius: 20px;
@@ -123,7 +123,7 @@ a {
   }
 }
 
-/* Lists */
+/***** Lists *****/
 .list {
   list-style: none;
   padding-left: 0;
@@ -149,4 +149,24 @@ a {
   .list--tick .list__item {
     padding-left: 0;
   }
+}
+
+/***** Icons *****/
+.icon {
+  width: 40px;
+  height: 40px;
+}
+
+.icon--primary {
+  fill: var(--color-primary);
+}
+
+.icon-container {
+  background: #f3f9fa;
+  width: 64px;
+  height: 64px;
+  border-radius: 100%;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
 }
