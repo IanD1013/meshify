@@ -1,5 +1,7 @@
 # Meshify - Modern Website Template
 
+![Image](https://github.com/user-attachments/assets/2cf95a75-f6e4-46d3-8f50-d7df014fc570)
+
 A responsive, modern website template built with HTML5 and CSS3, following best practices and industry standards. This project is based on the Ultimate HTML & CSS: Part 3 course by Mosh Hamedani.
 
 ## 🚀 Features
